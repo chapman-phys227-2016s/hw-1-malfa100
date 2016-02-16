@@ -1,6 +1,6 @@
 # PHYS227 HW 1
 
-**Author:** _\<your name\>_
+**Author:** Andrew Malfavon
 
 [![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-1-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-1-YOURNAME)
 
@@ -18,7 +18,7 @@ Complete the following exercises from the primary textbook, placing your solutio
 Finally, to cleanly present your work, create a Jupyter notebook ```hw1.ipynb``` that imports each of your python files as modules and demonstrates the functionality. The notebook should be formatted professionally using Markdown headings, including your name and a brief description of each homework section.
 
 ## Assessment
-
+temporary assessment to make sure it works
 _\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
 
 ## Honor Pledge
@@ -30,4 +30,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Andrew Malfavon
